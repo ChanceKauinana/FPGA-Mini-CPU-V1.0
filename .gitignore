@@ -1,21 +1,20 @@
-# Vivado generated files
-vivado/
+# Vivado project files
+*.xpr
+*.hw
+
+# Vivado generated files/folders
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
 *.jou
 *.log
-*.pb
-*.wdf
-*.xml
-*.rpt
-*.dcp
-*.vds
+*.str
+*.bit
+*.bin
+*.ltx
+*.mcs
 *.wpc
-*.ini
-*.db
-*.exe
-*.bat
-*.sh
-
-# Simulation output
-*.wdb
-*.sdb
-xsim.dir/
